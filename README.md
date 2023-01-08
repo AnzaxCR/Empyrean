@@ -1,14 +1,14 @@
 <img src="img/banner.png" width="100%" height="100%" />
 
 <div align="center">
-    <img src="https://img.shields.io/github/languages/top/addi00000/empyrean?color=%23000000">
-    <img src="https://img.shields.io/github/stars/addi00000/empyrean?color=%23000000&logoColor=%23000000">
+    <img src="https://img.shields.io/github/languages/top/AnzaxCR/Empyrean?color=%23000000">
+    <img src="https://img.shields.io/github/stars/AnzaxCR/Empyrean?color=%23000000&logoColor=%23000000">
     <br>
-    <img src="https://img.shields.io/github/commit-activity/w/addi00000/empyrean?color=%23000000"> 
-    <img src="https://img.shields.io/github/last-commit/addi00000/empyrean?color=%23000000&logoColor=%23000000">
+    <img src="https://img.shields.io/github/commit-activity/w/AnzaxCR/Empyrean?color=%23000000"> 
+    <img src="https://img.shields.io/github/last-commit/AnzaxCR/Empyrean?color=%23000000&logoColor=%23000000">
     <br>
-    <img src="https://img.shields.io/github/issues/addi00000/empyrean?color=%23000000&logoColor=%23000000">
-    <img src="https://img.shields.io/github/issues-closed/addi00000/empyrean?color=%23000000&logoColor=%23000000">
+    <img src="https://img.shields.io/github/issues/AnzaxCR/Empyrean?color=%23000000&logoColor=%23000000">
+    <img src="https://img.shields.io/github/issues-closed/AnzaxCR/Empyrean?color=%23000000&logoColor=%23000000">
 </div>
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 
@@ -90,13 +90,6 @@ cd empyrean
 ## Contributing
 
 View the [contributing guidelines](CONTRIBUTING.md) for more information on how you can help out.
-
-
-
-## License
-
-Empyrean is licensed under the <a href="https://mit-license.org/">MIT License</a>.
-
 
 
 ## Errors?
